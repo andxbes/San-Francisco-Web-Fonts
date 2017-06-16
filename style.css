@@ -103,7 +103,7 @@
 
 
 @font-face {
-    font-family: 'SF UI Display Black';
+    font-family: 'SF UI Display';
     src: url('./fonts/sf-ui/sf-ui-display-black-webfont.woff2') format('woff2'),
         url('./fonts/sf-ui/sf-ui-display-black-webfont.woff') format('woff'),
         url('./fonts/sf-ui/sf-ui-display-black-webfont.ttf') format('truetype'),
